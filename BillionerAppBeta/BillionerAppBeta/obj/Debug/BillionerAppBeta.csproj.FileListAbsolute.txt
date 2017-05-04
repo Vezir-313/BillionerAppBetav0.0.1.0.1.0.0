@@ -1,0 +1,6 @@
+c:\users\vezir\onedrive\documents\visual studio 2017\Projects\BillionerAppBeta\BillionerAppBeta\bin\Debug\BillionerAppBeta.exe.config
+c:\users\vezir\onedrive\documents\visual studio 2017\Projects\BillionerAppBeta\BillionerAppBeta\bin\Debug\BillionerAppBeta.exe
+c:\users\vezir\onedrive\documents\visual studio 2017\Projects\BillionerAppBeta\BillionerAppBeta\bin\Debug\BillionerAppBeta.pdb
+c:\users\vezir\onedrive\documents\visual studio 2017\Projects\BillionerAppBeta\BillionerAppBeta\obj\Debug\BillionerAppBeta.csprojResolveAssemblyReference.cache
+c:\users\vezir\onedrive\documents\visual studio 2017\Projects\BillionerAppBeta\BillionerAppBeta\obj\Debug\BillionerAppBeta.exe
+c:\users\vezir\onedrive\documents\visual studio 2017\Projects\BillionerAppBeta\BillionerAppBeta\obj\Debug\BillionerAppBeta.pdb
